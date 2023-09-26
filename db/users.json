@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "icanq",
+    "age": 30,
+    "cars": [
+      {
+        "name": "Suzuki",
+        "models": ["Katana", "Jimny"]
+      },
+      {
+        "name": "Honda",
+        "models": ["WRV", "CRV"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Yogie",
+    "age": 46,
+    "cars": [
+      {
+        "name": "Hyundai",
+        "models": ["ionic6"]
+      },
+      {
+        "name": "Mercedes",
+        "models": ["A", "B", "C"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Budi",
+    "age": 24,
+    "cars": [
+      {
+        "name": "Toyota",
+        "models": ["Prius"]
+      }
+    ]
+  }
+]
